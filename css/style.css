@@ -1,0 +1,22 @@
+.new-courses{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.new-courses h3, .category h3{
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.new-courses .course,.category .course{
+    padding-bottom: 20px;
+}
+
+.footer-h6{
+    color:#fff;
+}
+
+.about{
+    padding-top:30px;
+    padding-bottom:30px;
+}
